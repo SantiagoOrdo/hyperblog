@@ -25,6 +25,13 @@ body
     vertical-align: middle;
 }
 
+#post #imagenejemplo
+{
+    width: 800px; height: 400px;
+    display: block;
+    margin: auto;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
